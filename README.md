@@ -2,6 +2,7 @@
 solving the maze problem
 
 <B>Input Example</B>
+```
 ########
 #      #
 # # ## #
@@ -9,9 +10,9 @@ solving the maze problem
 # #### #
 # S  # #
 ########
-
+```
 <B>Output Example</B>
-
+```
 ########
 #...   #
 #.#.## #
@@ -19,7 +20,7 @@ solving the maze problem
 #.#### #
 #.S  # #
 ########
-
+```
 
 Input file name is maze.txt, which is configured in config.properties. To run this program both needs to be in the classpath.
 If need to run seperate maze example, please rename maze.txt and create a new maze.txt with new maze.
